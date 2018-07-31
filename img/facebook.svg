@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>DD00B79B-B77D-4906-A7E0-1CE8486E475A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M35.8413462,5.28846154 L35.8413462,11.6346154 L32.0673077,11.6346154 C29.1105769,11.6346154 28.5576923,13.0528846 28.5576923,15.0961538 L28.5576923,19.6394231 L35.6009615,19.6394231 L34.6634615,26.7548077 L28.5576923,26.7548077 L28.5576923,45 L21.2019231,45 L21.2019231,26.7548077 L15.0721154,26.7548077 L15.0721154,19.6394231 L21.2019231,19.6394231 L21.2019231,14.3990385 C21.2019231,8.31730769 24.9278846,5 30.3605769,5 C32.9567308,5 35.1923077,5.19230769 35.8413462,5.28846154 Z" id="path-1"></path>
+    </defs>
+    <g id="Global/Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/social/facebook">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="colors/gray-dark" mask="url(#mask-2)" fill="#3C3C3C">
+                <rect id="Rectangle" x="0" y="0" width="50" height="50"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="172px" viewBox="0 0 149 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>A276567B-DA86-4463-81CD-FDA2815848EE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 42.909799 74.127907 0 148.255814 42.909799 148.255814 128.728523 74.127907 171.638322 0 128.728523"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Numart-–-Homepage" transform="translate(-718.000000, -1086.000000)">
+            <g id="Bloc-services" transform="translate(90.000000, 999.000000)">
+                <g id="Liste-des-éléments" transform="translate(0.000000, 87.000000)">
+                    <g id="Élement-3" transform="translate(570.000000, 0.000000)">
+                        <g id="Logo-service-3" transform="translate(58.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <path stroke="#1A2052" stroke-width="6" d="M3,44.639585 L3,126.998737 L74.127907,168.171951 L145.255814,126.998737 L145.255814,44.639585 L74.127907,3.46637084 L3,44.639585 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
